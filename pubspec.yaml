@@ -14,7 +14,7 @@ dependencies:
   agora_rtm: 
     git: 
       url: https://github.com/sumitkakshapati/Agora-Flutter-RTM-SDK.git
-      ref: 0d9419d80631497158cb575dd7bdedd06f687c37
+      ref: ff942b9a56dfef09d3e1434fc50c158f82342f23
   flutter:
     sdk: flutter
   http: ">=0.13.1 <2.0.0"
