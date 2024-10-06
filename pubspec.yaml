@@ -11,7 +11,7 @@ environment:
 
 dependencies:
   agora_rtc_engine:
-    git: https://github.com/newjins-papa/Agora-Flutter-SDK.git
+    git: https://github.com/adham-ashraf77/Agora-Flutter-SDK.git
   agora_rtm: 
     git : 
      url :  https://github.com/iamriajul/Agora-Flutter-RTM-SDK.git
