@@ -10,7 +10,7 @@ environment:
   flutter: ">=2.2.0"
 
 dependencies:
-    agora_rtc_engine: 
+  agora_rtc_engine: 
     git: https://github.com/adham-ashraf77/Agora-Flutter-SDK.git
   agora_rtm: 
     git: 
